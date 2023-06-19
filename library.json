@@ -1,0 +1,96 @@
+{
+  "books": [
+    [
+        {
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "ISBN": "9780061120084",
+          "genre": "Fiction"
+        },
+        {
+          "title": "1984",
+          "author": "George Orwell",
+          "ISBN": "9780451524935",
+          "genre": "Science Fiction"
+        },
+        {
+          "title": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "ISBN": "9780743273565",
+          "genre": "Classic"
+        },
+        {
+          "title": "Pride and Prejudice",
+          "author": "Jane Austen",
+          "ISBN": "9780141439518",
+          "genre": "Romance"
+        },
+        {
+          "title": "To the Lighthouse",
+          "author": "Virginia Woolf",
+          "ISBN": "9780156030471",
+          "genre": "Modernist"
+        },
+        {
+          "title": "Moby-Dick",
+          "author": "Herman Melville",
+          "ISBN": "9781853260087",
+          "genre": "Adventure"
+        },
+        {
+          "title": "The Catcher in the Rye",
+          "author": "J.D. Salinger",
+          "ISBN": "9780316769488",
+          "genre": "Coming-of-age"
+        },
+        {
+          "title": "Brave New World",
+          "author": "Aldous Huxley",
+          "ISBN": "9780060850524",
+          "genre": "Dystopian"
+        },
+        {
+          "title": "Jane Eyre",
+          "author": "Charlotte Bronte",
+          "ISBN": "9780141441146",
+          "genre": "Gothic"
+        },
+        {
+          "title": "The Lord of the Rings",
+          "author": "J.R.R. Tolkien",
+          "ISBN": "9780544003415",
+          "genre": "Fantasy"
+        },
+        {
+          "title": "The Hobbit",
+          "author": "J.R.R. Tolkien",
+          "ISBN": "9780261103283",
+          "genre": "Adventure"
+        },
+        {
+          "title": "Harry Potter and the Sorcerer's Stone",
+          "author": "J.K. Rowling",
+          "ISBN": "9780590353427",
+          "genre": "Fantasy"
+        },
+        {
+          "title": "The Chronicles of Narnia",
+          "author": "C.S. Lewis",
+          "ISBN": "9780064404990",
+          "genre": "Fantasy"
+        },
+        {
+          "title": "The Hitchhiker's Guide to the Galaxy",
+          "author": "Douglas Adams",
+          "ISBN": "9780345391803",
+          "genre": "Science Fiction"
+        },
+        {
+          "title": "The Alchemist",
+          "author": "Paulo Coelho",
+          "ISBN": "9780062315007",
+          "genre": "Philosophical"
+        }
+      ]
+  ]
+}

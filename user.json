@@ -1,0 +1,34 @@
+[
+    {
+      "id"  : "1",
+      "email": "user1@example.com",
+      "password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+      "roles" : "user"
+    },
+    {
+        "id": "2",
+        "email": "user2@example.com",
+        "password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+        "roles": "user"
+      },
+      {
+        "id": "3",
+        "email": "user3@example.com",
+        "password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+        "roles": "user"
+      },
+      {
+        "id": "4",
+        "email": "user4@example.com",
+        "password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+        "roles": "user"
+      },
+      {
+        "id": "5",
+        "email": "user5@example.com",
+        "password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+        "roles": "user"
+      }
+
+  ]
+  
